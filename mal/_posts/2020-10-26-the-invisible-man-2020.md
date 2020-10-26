@@ -11,6 +11,8 @@ author: maxflix21
 genre:
   - Horror
   - Drama
+  - Sci-Fi
+  - Thriller
 country: United States
 content_rating: PG-13
 featured: true
