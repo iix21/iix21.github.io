@@ -5,7 +5,7 @@ lang-ref: "Jumanji: The Next Level (2019)"
 lang_selector: false
 layout: post
 title: "Jumanji: The Next Level (2019)"
-image: /assets/images/6.jpg
+image: /assets/images/9.jpg
 featured_image: /assets/images/6.jpg
 author: maxflix21
 genre:
