@@ -12,6 +12,7 @@ genre:
   - Action
   - Adventure
   - Fantasy
+  - Sci-Fi
 country: United States
 content_rating: G
 featured: true
