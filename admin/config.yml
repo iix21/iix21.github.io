@@ -8,9 +8,9 @@ local_backend: true
 
 
 publish_mode: editorial_workflow
-site_url: https://eroyx.tk
-display_url: https://eroyx.tk
-logo_url: https://eroyx.tk/assets/images/cms.png
+site_url: https://iix21.github.io/
+display_url: https://iix21.github.io/
+logo_url: https://i.ibb.co/ggnwQnn/coollogo-com-199581186.png
 
 media_folder: "assets/images"
 collections:
