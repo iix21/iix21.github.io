@@ -1,6 +1,6 @@
-name: 🍿eroyx
-title: 🍿eroyx
-description: 🍿News & Fresh reviews of all time best epic Movies, Serieses & Franchises are here. Also get the Streaming links over the best platforms and telegram download links.
+name: 🍿
+title: 🍿
+description: 🍿
 baseurl: ""
 paginate_path: "/_page/page:num/"
 paginate: 9
@@ -8,18 +8,17 @@ sass:
   sass_dir: _sass
   style: compressed
 markdown: kramdown
-url: https://eroyx.tk
-
+url: https://iix21.github.io/
 # Collections
 collections:
   series:
     output: true
     permalink: /series/:title/
   franchises:
-    output: true
+    output: false
     permalink: /franchise/:title/
   authors:
-    output: true
+    output: false
   genre:
     output: true
     permalink: /genre/:title/
@@ -27,12 +26,12 @@ collections:
     output: true
     permalink: /country/:title/
   languages:
-    output: true
+    output: false
     permalink: /language/:title/
   subtitle:
-    output: true
+    output: false
   director:
-    output: true
+    output: false
 
 # Defaults
 defaults:
