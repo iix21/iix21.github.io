@@ -29,7 +29,7 @@ tags:
 <!-- Latest Section -->
 <div class="relative">
 <h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Latest</span></h4>
-<a href="{{site.baseurl}}/featured/"><span class="more-text gradient-text">All posts <i class="fas fa-caret-right"></i></span></a>
+
 </div>
 <div class="blog-grid-container owl-carousel owl-theme">
 {% for post in posts limit:8 %}
@@ -37,22 +37,7 @@ tags:
 {% endfor %}
 </div>
 <!-- Latest end -->
-<!-- Genre Section -->
-<div class="relative">
-  <h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Genre</span></h4>
-  <a href="{{site.baseurl}}/genre"><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
-  </div>
-  <div class="blog-grid-container owl-carousel owl-theme">
-  {% for genre in site.genre limit:8 %}
-  <a href="{{site.baseurl}}/genre/{{ genre.title | slugify }}">
-    <span class="language-box zoom-2">
-      <span class="first-letter gradient-text"><i class="{{genre.icon}}"></i></span>
-      <span class="language-name gradient-text">{{genre.title}}</span>
-    </span>
-  </a>
-  {% endfor %}
-  </div>
-  <!-- Genre end -->
+
 <!-- Action Section -->
 <div class="relative">
 <h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Action</span></h4>
@@ -87,50 +72,22 @@ End Top picks of the week -->
   {% endfor %}
 </div>
 <!-- Crime end -->
-<!-- Country Section -->
+
+<!-- Horror Section -->
 <div class="relative">
-  <h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Countries</span></h4>
-  <a href="{{site.baseurl}}/countries"><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
+  <h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Horror</span></h4>
+  <a href="{{site.baseurl}}/genre/horror/"><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
   </div>
   <div class="blog-grid-container owl-carousel owl-theme">
-  {% for country in site.countries limit:8 %}
-  <a href="{{site.baseurl}}/country/{{ country.title | slugify }}">
-    <span class="country-box zoom-2">
-      <span class="first-flag flag-icon flag-icon-{{country.iso_code}}"></span>
-      <span class="language-name gradient-text">{{country.title}}</span>
-    </span>
-  </a>
+  {% assign filtered_posts_horror = site.posts | where: 'genre', "Horror" | where_exp:"post","post.is_generated != true" %}
+  {% for post in filtered_posts_horror limit:20 %}
+    {% if post.lang == "mal" %}
+          {% include postbox-3.html %}
+    {% endif %}
   {% endfor %}
   </div>
-  <!-- Country end -->
-<!-- Indian Section -->
-<div class="relative">
-<h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">Indian</span></h4>
-<a href="{{site.baseurl}}/country/india/"><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
-</div>
-<div class="blog-grid-container owl-carousel owl-theme">
-  {% assign filtered_posts_indian = site.posts | where: 'country', "India" | where_exp:"post","post.is_generated != true" %}
-  {% for post in filtered_posts_indian %}
-    {% if post.lang == "mal" %}
-      {% include postbox-3.html %}
-    {% endif %}
-  {% endfor %}
-</div>
-<!-- Indian end -->
-<!-- English Section -->
-<div class="relative">
-<h4 class="mt-5 mb-neg-30"><span class="gradient-text home-heading">English</span></h4>
-<a href="{{site.baseurl}}/language/english/"><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
-</div>
-<div class="blog-grid-container owl-carousel owl-theme">
-  {% assign filtered_posts_English = site.posts | where: 'language', "English" | where_exp:"post","post.is_generated != true" %}
-  {% for post in filtered_posts_English limit:20 %}
-    {% if post.lang == "mal" %}
-      {% include postbox-3.html %}
-    {% endif %}
-  {% endfor %}
-</div>
-<!-- English end -->
+<!-- Horror end -->
+
 
 <!-- Horror Section -->
 <div class="relative">
