@@ -4,7 +4,7 @@
       <img class="locandina" src="{{site.baseurl}}{{post.featured_image}}"/>
       <h1 class="gradient-text">{{post.title}}</h1>
       <h4>{{post.year}} {% for director in post.director %}{{ director }}{% unless forloop.last %},{% endunless %} &nbsp;{% endfor %}</h4>
-      <span class="ftr-btn"><a href="{{ post.url }}"><i class="fas fa-stopwatch"></i> WATCH NOW</a></span>
+      <span class="button"><a href="{{ post.url }}">WATCH NOW</a></span>
       <p class="type gradient-text">{% for genre in post.genre %}{{ genre }}{% unless forloop.last %},{% endunless %} &nbsp;{% endfor %}</p>
     </div>
     <div class="movie_desc">
