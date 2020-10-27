@@ -3,14 +3,13 @@
     <div class="movie_header">
       <img class="locandina" src="{{site.baseurl}}{{post.featured_image}}"/>
       <h1 class="gradient-text">{{post.title}}</h1>
-      
-      <span class="minutes"><a href="{{ post.url }}"><i class="fas fa-film"> WATCH NOW </i><a></span>
       <p class="type gradient-text">{% for genre in post.genre %}{{ genre }}{% unless forloop.last %},{% endunless %} &nbsp;{% endfor %}</p>
     </div>
     <div class="movie_desc">
       <p class="text">
         {{ post.excerpt | strip_html | truncatewords:18 }}
       </p>
+      <span class="minutes"><a href="{{ post.url }}"><i class="fas fa-film"> WATCH NOW </i><a></span>
     </div>
     
   </div>
