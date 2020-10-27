@@ -3,6 +3,8 @@
     <div class="movie_header">
       <img class="locandina" src="{{site.baseurl}}{{post.featured_image}}"/>
       <h1 class="gradient-text">{{post.title}}</h1>
+      <h4>{{post.year}}, {% for director in post.director %}{{ director }}{% unless forloop.last %},{% endunless %} &nbsp;{% endfor %}</h4>
+      <span class="minutes"><a href="{{ post.url }}"><i class="fas fa-stopwatch"></i> WATCH NOW</span>
       <p class="type gradient-text">{% for genre in post.genre %}{{ genre }}{% unless forloop.last %},{% endunless %} &nbsp;{% endfor %}</p>
     </div>
     <div class="movie_desc">
@@ -11,7 +13,10 @@
       </p>
     </div>
     <div class="movie_social">
-      <span class="minutes"><a href="{{ post.url }}"><i class="fas fa-stopwatch"></i> WATCH NOW</span>
+      <ul>
+        <li><a href="{{post.url}}"><i class="fas fa-bookmark gradient-text"></i></a></li>
+        <li><i class="fas fa-share-alt gradient-text"></i></li>
+      </ul>
     </div>
   </div>
   <div class="blur_back bright_back" style="background-image: url({{site.baseurl}}{{post.image}})"></div>
