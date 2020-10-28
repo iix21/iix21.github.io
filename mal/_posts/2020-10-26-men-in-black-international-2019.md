@@ -5,14 +5,14 @@ lang-ref: "Men in Black: International (2019)"
 lang_selector: false
 layout: post
 title: "Men in Black: International (2019)"
-image: /assets/images/29.jpg
+image: /assets/images/28.jpg
 featured_image: /assets/images/28.jpg
 author: maxflix21
 genre:
   - Action
   - Comedy
   - Sci-Fi
-country: South Korea
+country: United States
 content_rating: G
 featured: true
 imageshadow: true
