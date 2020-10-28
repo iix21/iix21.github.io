@@ -3,11 +3,11 @@ layout: page
 permalink: /privacy-policy
 date: 2020-05-28 09:44:49
 title: Privacy Policy
-image: /assets/images/eroyx_ii.png
+image: /assets/images/logovideo.png
 imageshadow: false
 comments: false
 ---
-**eroyx** takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+**MaxFlix21** takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 #### Collection of Routine Information
 
@@ -33,4 +33,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 #### Contact Information
 
-For any questions or concerns regarding the privacy policy, please [contact us here](https://pinite.muhd.tk/contact.html).
+For any questions or concerns regarding the privacy policy, please contact rwdhana@gmail.com
