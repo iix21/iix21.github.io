@@ -5,7 +5,7 @@ lang-ref: Peninsula (Train to Busan 2) (2020)
 lang_selector: false
 layout: post
 title: Peninsula (Train to Busan 2) (2020)
-image: /assets/images/27.jpg
+image: /assets/images/26.jpg
 featured_image: /assets/images/26.jpg
 author: maxflix21
 genre:
@@ -14,7 +14,7 @@ genre:
   - Thriller
 country: South Korea
 content_rating: PG
-featured: true
+featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/AWjlS49REW3suY2
 ---
