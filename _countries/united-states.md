@@ -1,4 +1,4 @@
 ---
 title: United States
-iso_code: um
+iso_code: us
 ---
