@@ -9,21 +9,6 @@ lang_selector: false
         display:none;
     }
 </style>
-<div class="text-center">
-<script src="{{site.baseurl}}/assets/js/lunr.js"></script>
-
-<div class="wrap-search">
-    <div class="d-flex align-items-center ml-auto">
-        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-            <input type="text" class="form-control bigradius text-small launch-modal-search search" id="lunrsearch" name="q" maxlength="270" value="" placeholder="Type and enter..."/>
-        </form>
-        <i class="fas fa-search show-search color"></i>
+<div>
+{% include search-lunr.html %}
     </div>
-</div>
-
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-
-<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script>
-</div>
