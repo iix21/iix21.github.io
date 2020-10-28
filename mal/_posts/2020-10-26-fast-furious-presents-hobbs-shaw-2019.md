@@ -5,7 +5,7 @@ lang-ref: "Fast & Furious Presents: Hobbs & Shaw (2019)"
 lang_selector: false
 layout: post
 title: "Fast & Furious Presents: Hobbs & Shaw (2019)"
-image: /assets/images/25.jpg
+image: /assets/images/24.jpg
 featured_image: /assets/images/24.jpg
 author: maxflix21
 genre:
