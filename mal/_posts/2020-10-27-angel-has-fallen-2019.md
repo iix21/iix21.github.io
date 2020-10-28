@@ -5,7 +5,7 @@ lang-ref: Angel Has Fallen (2019)
 lang_selector: false
 layout: post
 title: Angel Has Fallen (2019)
-image: /assets/images/39.jpg
+image: /assets/images/38.jpg
 featured_image: /assets/images/38.jpg
 author: maxflix21
 genre:
