@@ -5,7 +5,7 @@ lang-ref: "Rambo: Last Blood (2019)"
 lang_selector: false
 layout: post
 title: "Rambo: Last Blood (2019)"
-image: /assets/images/35.jpg
+image: /assets/images/34.jpg
 featured_image: /assets/images/34.jpg
 author: maxflix21
 genre:
