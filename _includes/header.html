@@ -22,7 +22,7 @@
                 <span class="badge badge-primary margin-5">{{ post.title }} </span>
             </h2>
             <span class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</span>
-            
+            <span class="card-text"><a href="{{ post.url }}"><i class="fas fa-stopwatch"></i> Watch</a></span>
         </div>
     </div>
     {% endif %}
