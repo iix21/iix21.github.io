@@ -5,7 +5,7 @@ lang-ref: "Birds of Prey: Harley Quinn (2020)"
 lang_selector: false
 layout: post
 title: "Birds of Prey: Harley Quinn (2020)"
-image: /assets/images/23.jpg
+image: /assets/images/22.jpg
 featured_image: /assets/images/22.jpg
 author: maxflix21
 genre:
