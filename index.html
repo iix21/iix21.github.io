@@ -19,11 +19,7 @@ tags:
 <a href=""><span class="more-text gradient-text">See More <i class="fas fa-caret-right"></i></span></a>
 </div>
 <div class="blog-grid-container owl-carousel owl-theme">
-{% for post in posts limit:15 %}
-{% if post.featured == true %}
-        {% include postbox-3.html %}
-{% endif %}
-{% endfor %}
+{% include featured.html %}
 </div>
 <!-- Featured end -->
 <!-- Latest Section -->
