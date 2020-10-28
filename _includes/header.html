@@ -10,7 +10,7 @@
                 <span class="badge badge-primary margin-5">{{ post.title }} </span>
             </h2>
             <span class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</span>
-            <span class="badge badge-primary">{{ post.year }}</span> <span class="badge badge-primary"><i class="fas fa-star"></i>{{ post.rating }}</span> <span class="badge badge-primary">{{ post.director }}</span>
+            
         </div>
     </div>
     {% endfor %}
@@ -22,7 +22,7 @@
                 <span class="badge badge-primary margin-5">{{ post.title }} </span>
             </h2>
             <span class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</span>
-            <span class="badge badge-primary">{{ post.year }}</span> <span class="badge badge-primary"><i class="fas fa-star"></i>{{ post.rating }}</span> <span class="badge badge-primary">{{ post.director }}</span>
+            
         </div>
     </div>
     {% endif %}
