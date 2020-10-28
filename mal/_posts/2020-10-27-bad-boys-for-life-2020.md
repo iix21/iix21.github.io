@@ -5,7 +5,7 @@ lang-ref: Bad Boys for Life (2020)
 lang_selector: false
 layout: post
 title: Bad Boys for Life (2020)
-image: /assets/images/37.jpg
+image: /assets/images/36.jpg
 featured_image: /assets/images/36.jpg
 author: maxflix21
 genre:
