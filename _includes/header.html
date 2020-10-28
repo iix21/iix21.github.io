@@ -7,7 +7,7 @@
     <div class="item active" style="background-size:cover;background-image:url({{site.baseurl}}{{post.image}});">
         <div class="card-body-home">
             <h2 class="card-title">
-                <span class="badge badge-primary margin-5">{{ post.title }} </span>
+                <span class="badge badge-primary margin-5"><a href="{{ post.url }}">{{ post.title }}</a> </span>
             </h2>
             <span class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</span>
             
