@@ -1,6 +1,5 @@
 countries:
   - name: India
-  - name: United States
   - name: France
   - name: Italy
   - name: Russia
@@ -14,3 +13,4 @@ countries:
   - name: Thailand
   - name: Argentina
   - name: Hongkong
+  - name: United States
