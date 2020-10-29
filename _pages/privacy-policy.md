@@ -2,7 +2,7 @@
 layout: page
 permalink: /privacy-policy
 date: 2020-05-28 09:44:49
-title: Privacy Policy
+title: LEGAL NOTICE AND DMCA
 image: /assets/images/logovideo.png
 imageshadow: false
 comments: false
