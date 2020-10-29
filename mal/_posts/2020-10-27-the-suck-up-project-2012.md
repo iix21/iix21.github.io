@@ -16,5 +16,6 @@ content_rating: G
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/5OoDwXbxl9ftUfY
+primeVideo: https://www.fembed.com/v/d8gqwaxlrw1qyd2
 ---
 Oh Dong-sik is the completely rigid character who has always led a text-book life. Dong-sik is threatened by loan sharks when his mother signs up for a private loan in order to advance Dong-sik’s father’s promotion into the principal position.
