@@ -3,8 +3,7 @@ layout: page
 permalink: /privacy-policy
 date: 2020-05-28 09:44:49
 title: LEGAL NOTICE AND DMCA
-image: /assets/images/logovideo.png
-imageshadow: false
+
 comments: false
 ---
 No video files are hosted on our servers or owned by , we provide our services for visitors that have rights to the material.
