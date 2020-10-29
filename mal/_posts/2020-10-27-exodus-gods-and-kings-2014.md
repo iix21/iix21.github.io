@@ -17,5 +17,6 @@ content_rating: PG
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/GUjBeNZ13cT7x7c
+primeVideo: http://gdriveplayer.to/embed2.php?link=9KNKMWWuh1cEr1d4oJj03QL1hUJJHg2CNnEMMztm%252F5AsYZvOQxOJbp0ZWv3iKc4%252BntHQ77NRzaD2NrwXH8oLN%252B1xieQTwzOrKjD0y647E1WB3VwPd%252Bva31z2TR0wHQdhAqA%252FPZXfZz5In7lC%252FOJTdpA4IKcbyRsisSoduVgbAIJciGK%252BnyCR4cQBIWDYGekAA%253D
 ---
 The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 400,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.
