@@ -17,5 +17,7 @@ content_rating: G
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/ZBUGbIjrd3x6Mfy
+primeVideo: https://www.fembed.com/v/xy-05h52w7epqyw
+hotstar: http://gdriveplayer.to/embed2.php?link=R8X57VRLcfEjk%252BF8Mst%252FhAM1M%252Fr8DpSLWsWgVDWvePYOEReIQG1LP6g4m6QZLDibJErkoaTk%252FyGrKT7Mkz9ITfm6zyP2htrlwiELErj2MRe09T4yvP8i2vgapK%252FQdlmrbz2wsCskLzLnBvAsSah4852Tr34tzM9J4UxLpsgwtAQva1NZwvHJo96VXuZJKujQc%253D
 ---
 Seventeen-year-old Mariah Mundi’s life is turned upside down when his parents vanish and his younger brother is kidnapped.
