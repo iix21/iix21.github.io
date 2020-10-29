@@ -15,5 +15,6 @@ content_rating: PG
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/KsoD0ygdrKVcVU8
+primeVideo: https://www.fembed.com/v/3wxqjtmrxjzed08
 ---
 The story of nobleman-turned-outlaw hero who was was crowned king of Scots in the 14th century.
