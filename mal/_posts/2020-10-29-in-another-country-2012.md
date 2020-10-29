@@ -16,5 +16,6 @@ content_rating: PG
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/IvU9mm7aklLmdiS
+primeVideo: https://www.fembed.com/v/y38m5seq3z0z0yj
 ---
 A three-tiered story centered on a trio of French tourists visiting the same seaside resort.
