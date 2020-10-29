@@ -17,5 +17,6 @@ content_rating: PG
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/AWjlS49REW3suY2
+primeVideo: https://gdriveplayer.to/embed2.php?link=yEZeheki5OOZgyYaDpMZYAAHmYU5xCMixoU1ZAQr3n1AjzeCiftcAWoQJKLhjezeYux4KLn2FeJJyS1%252FGD4eHZq5EZup4rHZAbXjpu2jjOalBbVO27iwVKa%252Fj%252FadGMzhguHKPBmViLb3uWBLocVXV1AgYR9S8uipwooBrNuIYz6a%252BMNlqd7ppp5RA00wuiBUE%253D
 ---
 Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
