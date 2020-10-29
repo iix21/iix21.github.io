@@ -7,30 +7,22 @@ image: /assets/images/logovideo.png
 imageshadow: false
 comments: false
 ---
-**MaxFlix21** takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+No video files are hosted on our servers or owned by , we provide our services for visitors that have rights to the material.
 
-#### Collection of Routine Information
+We only provide embedded content from foreign servers and imports video using metas from other sites. We do not host or upload copyrighted content to our server.
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
+The actual videos are not downloaded to our hosting account. So if we have any copyright problem with that content please contact servers owners where the movies are hosted, we don’t have anything to do with those.
 
-#### Advertisement and Other Third Parties
+If your copyrighted material has been posted on MaxFlix21 or if links to your copyrighted material are returned through search engine and you want this material removed, you must provide a written communication that details the information listed in the following section.
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Having said that, if you are a copyright owner and unhappy about your content embedded on this website, please feel free to contact us and we will remove the infringing content As Soon As Possible.
+This should be in the format below:
+(a) Your name, address, telephone number, and E-mail address;
+(b) A description of the copyrighted work that you claim has been infringed;
+(c) The exact URL or a description of each place where alleged infringing material is located.
+Send the written infringement notice to our following HOST.
 
-#### Links to Third Party Websites
+Once a link is removed we will blacklist that URL so that it may never again be posted MaxFlix21.
+We aim to act within 48 hours after receiving any notification, however usually your request will be actioned immediately.
 
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-#### Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-#### Changes To This Privacy Policy
-
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-#### Contact Information
-
-For any questions or concerns regarding the privacy policy, please contact rwdhana@gmail.com
+ONCE AGAIN MaxFlix21 does not host any files on it’s servers. MaxFlix21 Serve as a 3rd party. MaxFlix21 does not hold any responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of movies/software/music album. We just use the links that available in internet and posted it.
