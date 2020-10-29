@@ -18,5 +18,6 @@ content_rating: PG
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/B4HFJY4lEdmRE53
+primeVideo: https://www.fembed.com/v/d8gqwaxlrj344q3
 ---
 The perpetually rational and precise researcher Hyeon-cheol and the rash and reckless Dong-hwa have nothing in common with the exception of a goal to steal a corpse to serve their own twisted agendas.
