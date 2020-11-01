@@ -495,7 +495,7 @@
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     display: block;
-    height: 100px;
+    height: 50px;
     min-width: 50%;
     width: 50%;
     max-width: 50%;
@@ -503,11 +503,11 @@
 }
 
 .carousel-inner {
-  height: 50%;
+  height: 10%;
 }
 
 .item {
-  height: 50%;
+  height: 10%;
   background-position: center;
 }
 @media (max-width: 599.9px) {
