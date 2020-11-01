@@ -495,19 +495,19 @@
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     display: block;
-    height: 50px;
-    min-width: 50%;
-    width: 50%;
-    max-width: 50%;
+    height: 25px;
+    min-width: 25%;
+    width: 25%;
+    max-width: 25%;
     line-height: 1;
 }
 
 .carousel-inner {
-  height: 10%;
+  height: 25%;
 }
 
 .item {
-  height: 10%;
+  height: 25%;
   background-position: center;
 }
 @media (max-width: 599.9px) {
