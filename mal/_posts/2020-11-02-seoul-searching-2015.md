@@ -11,7 +11,7 @@ author: maxflix21
 genre:
   - Comedy
   - Drama
-country: China
+country: South Korea
 content_rating: PG
 featured: false
 imageshadow: true
