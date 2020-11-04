@@ -1,4 +1,0 @@
----
-title: Japanese
-firstLetter: あ
----
