@@ -13,6 +13,8 @@ genre:
   - Drama
   - Thriller
 country: United States
+language:
+  - English
 content_rating: PG
 featured: true
 imageshadow: true
