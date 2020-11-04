@@ -12,6 +12,8 @@ genre:
   - Action
   - Adventure
 country: United States
+language:
+  - English
 content_rating: PG
 featured: true
 imageshadow: true
