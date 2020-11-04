@@ -14,6 +14,8 @@ genre:
   - Sci-Fi
   - Thriller
 country: United States
+language:
+  - English
 content_rating: PG-13
 featured: false
 imageshadow: true
