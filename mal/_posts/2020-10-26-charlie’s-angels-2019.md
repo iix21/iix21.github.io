@@ -13,6 +13,8 @@ genre:
   - Adventure
   - Comedy
 country: United States
+language:
+  - English
 content_rating: PG
 featured: false
 imageshadow: true
