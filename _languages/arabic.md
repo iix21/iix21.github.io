@@ -1,4 +1,0 @@
----
-title: Arabic
-firstLetter: أ
----
