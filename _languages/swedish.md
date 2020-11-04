@@ -1,4 +1,0 @@
----
-title: Swedish
-firstLetter: å
----
