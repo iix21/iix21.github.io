@@ -1,4 +1,0 @@
----
-title: Assamese
-firstLetter: ঈ
----
