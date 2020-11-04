@@ -13,6 +13,8 @@ genre:
   - Adventure
   - Sci-Fi
 country: United States
+language:
+  - English
 content_rating: PG
 featured: true
 imageshadow: true
