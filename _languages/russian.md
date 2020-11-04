@@ -1,4 +1,0 @@
----
-title: Russian
-firstLetter: Ю
----
