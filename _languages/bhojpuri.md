@@ -1,4 +1,0 @@
----
-title: Bhojpuri
-firstLetter: ब
----
