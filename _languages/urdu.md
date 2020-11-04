@@ -1,4 +1,0 @@
----
-title: Urdu
-firstLetter: ا
----
