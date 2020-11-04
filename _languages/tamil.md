@@ -1,4 +1,0 @@
----
-title: Tamil
-firstLetter: த
----
