@@ -22,7 +22,7 @@ tags:
 <div class="blog-grid-container owl-carousel owl-theme">
   {% assign filtered_posts_English = site.posts | where: 'language', "English" | where_exp:"post","post.is_generated != true" %}
   {% for post in filtered_posts_English limit:20 %}
-    {% if post.lang == "mal" %}
+    {% if post.lang == "en" %}
       {% include postbox-3.html %}
     {% endif %}
   {% endfor %}
