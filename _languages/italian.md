@@ -1,4 +1,0 @@
----
-title: Italian
-firstLetter: I
----
