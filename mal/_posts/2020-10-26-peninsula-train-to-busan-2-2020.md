@@ -13,6 +13,8 @@ genre:
   - Horror
   - Thriller
 country: South Korea
+language:
+  - English
 content_rating: PG
 featured: false
 imageshadow: true
