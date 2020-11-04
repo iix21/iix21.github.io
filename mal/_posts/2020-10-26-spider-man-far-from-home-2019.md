@@ -14,6 +14,8 @@ genre:
   - Fantasy
   - Sci-Fi
 country: United States
+language:
+  - English
 content_rating: G
 featured: true
 imageshadow: true
