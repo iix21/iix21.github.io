@@ -13,6 +13,8 @@ genre:
   - Adventure
   - Crime
 country: United States
+language:
+  - English
 content_rating: PG-13
 featured: true
 imageshadow: true
