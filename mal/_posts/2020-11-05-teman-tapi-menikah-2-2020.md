@@ -16,6 +16,7 @@ content_rating: PG-13
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/3ptjkObi7xEYwEK
-primeVideo: https://gdriveplayer.me/embed2.php?link=%252BLswFHILRqUA3wvLqW1z2wBvvMtW4lK0fjU2lOo2gfoDHEAYZJd%252BHO2%252BIAzq%252FUFpOenykJKv1%252Frf1KWN7poK470aJXJhQg4wG9FQLKPLWCD0aGTXAQtrmnXw4FYE%252B2QfG75qUmzK9B%252BBB2xiwHU5rgYcCup%252Fx1Dav2Ltk4jruDMee1pgU%252FmFGD44xko%252F3dc%252Fo%253D
+primeVideo: http://gdriveplayer.io/embed2.php?link=b4RdZPnXmXLMoZ2bCjABtgAJldbiRTMSHzvuGQqZrg82s6ouRKbZhETtO3ZIU%252FCL%252FYMGQzaVNBDY3zJmP3oAilSo1e%252BqLwPFqcr7ZyE3GyfjO4TiKIkipsBR0ht6J97yU67M3kbjCBzWmqmwnAbzjCLSW8vXxSo%252BXmIvzPSrmGrRNqjRWYt0y9nPilS0qgjYalYmMycJInx%252BACHrmNrYh0
+hotstar: https://www.fembed.com/v/0-7wwil8y0xzl6x
 ---
 As Ayu and Ditto finally transition from best friends to newlyweds, a quick pregnancy creates uncertainty for the future of their young marriage.
