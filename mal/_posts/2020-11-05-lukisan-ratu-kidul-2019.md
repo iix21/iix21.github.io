@@ -15,5 +15,6 @@ content_rating: PG-13
 featured: false
 imageshadow: true
 netflix: https://movstar.xyz/embed/md7RC0jsigysC7A
+primeVideo: https://www.fembed.com/v/el2x4s-qrrm7mrj
 ---
 Dimas and Satria Soedibyo actually has many questions when their father died
